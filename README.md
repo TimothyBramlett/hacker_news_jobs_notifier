@@ -2,3 +2,7 @@
 A messy script I threw together a few years ago when looking for a dev job
 
 Throwing this up here for a friend who is looking for a job and may find this helpful
+
+# Which version of Python?
+
+This was designed to run on Python 3
