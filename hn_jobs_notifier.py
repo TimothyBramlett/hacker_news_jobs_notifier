@@ -9,7 +9,7 @@ from pushbullet import Pushbullet
 import bs4
 
 # currently this script keeps itself running with a main
-# loop that executes very 5 min.  A better way may perhaps be to use
+# loop that executes every 5 min.  A better way may perhaps be to use
 # cron or some type of scheduling framework.
 
 # This is what you need to change each month manually until I
