@@ -1,0 +1,8 @@
+beautifulsoup4==4.5.3
+bs4==0.0.1
+peewee==2.8.5
+pushbullet.py==0.10.0
+python-magic==0.4.12
+requests==2.13.0
+six==1.10.0
+websocket-client==0.40.0
